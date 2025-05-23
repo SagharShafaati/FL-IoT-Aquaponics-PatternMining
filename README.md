@@ -1,6 +1,6 @@
 # FL-IoT-Aquaponics-PatternMining
 
-This repository contains the official implementation of the methods proposed in the following peer-reviewed publication:
+This repository contains the official implementation of the method proposed in the following publication:
 
 **Title**: *Scalable Anomaly Detection and Pattern Mining in IoT Aquaponics Systems via Federated Learning*
 **Authors**: Saghar Shafaati, Javad Mohammadzadeh
@@ -10,5 +10,3 @@ This repository contains the official implementation of the methods proposed in 
 **IEEE Xplore**: [View Article on IEEE Xplore](https://ieeexplore.ieee.org/document/11006250)
 **Conference Location**: Tehran, Iran
 **Date of Conference**: April 16–17, 2025
-**Date Added to IEEE Xplore**: May 22, 2025
-
